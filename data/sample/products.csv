@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,unit_price,cost_price,is_active,created_date
+PROD00001,PrimeEdge Monitor,Electronics,PrimeEdge,368.54,255.95,true,2023-08-04
+PROD00002,ZenStyle Speaker,Electronics,ZenStyle,125.07,107.19,true,2023-01-02
+PROD00003,UrbanLine Monitor,Electronics,UrbanLine,44.43,24.91,true,2023-12-19
+PROD00004,GlowCare Mouse,Electronics,GlowCare,24.38,19.48,true,2022-06-18
+PROD00005,GlowCare Speaker,Electronics,GlowCare,74.42,55.15,true,2023-06-24
+PROD00006,BrightKart Keyboard,Electronics,BrightKart,212.58,119.97,true,2022-09-26
+PROD00007,ZenStyle Monitor,Electronics,ZenStyle,59.15,39.43,true,2023-04-14
+PROD00008,PeakFit Speaker,Electronics,PeakFit,360.76,223.25,true,2022-08-29
+PROD00009,GlowCare Monitor,Electronics,GlowCare,256.11,178.5,true,2022-08-21
+PROD00010,ZenStyle Keyboard,Electronics,ZenStyle,430.77,269.31,true,2024-08-08
+PROD00011,CoreMax Headphones,Electronics,CoreMax,433.83,249.71,true,2022-10-13
+PROD00012,AeroWave Monitor,Electronics,AeroWave,316.01,257.21,true,2022-11-18
+PROD00013,AeroWave Mouse,Electronics,AeroWave,308.02,200.25,true,2023-08-01
+PROD00014,ZenStyle Headphones,Electronics,ZenStyle,420.9,268.56,true,2024-07-16
+PROD00015,AeroWave Mouse,Electronics,AeroWave,339.45,290.77,true,2021-05-26
+PROD00016,UrbanLine Keyboard,Electronics,UrbanLine,308.97,233.99,true,2023-08-23
+PROD00017,PrimeEdge Mouse,Electronics,PrimeEdge,88.81,56.75,false,2024-07-06
+PROD00018,BrightKart Mouse,Electronics,BrightKart,169.0,137.1,true,2023-01-22
+PROD00019,PeakFit Mouse,Electronics,PeakFit,171.72,101.32,true,2023-08-19
+PROD00020,AeroWave Speaker,Electronics,AeroWave,165.4,132.17,true,2022-09-23
+PROD00021,HomeNest Mouse,Electronics,HomeNest,167.73,134.14,true,2021-11-12
+PROD00022,PeakFit Keyboard,Electronics,PeakFit,24.1,20.13,true,2022-08-23
+PROD00023,NovaTech Monitor,Electronics,NovaTech,195.2,139.99,true,2021-05-07
+PROD00024,CoreMax Mouse,Electronics,CoreMax,166.57,141.09,true,2023-07-14
+PROD00025,PeakFit Monitor,Electronics,PeakFit,136.72,115.31,true,2021-11-26
+PROD00026,AeroWave Speaker,Electronics,AeroWave,203.43,119.97,false,2022-02-04
+PROD00027,AeroWave Headphones,Electronics,AeroWave,314.95,221.08,true,2021-03-27
+PROD00028,BrightKart Speaker,Electronics,BrightKart,334.79,273.57,true,2024-01-13
+PROD00029,GlowCare Mouse,Electronics,GlowCare,249.53,202.49,true,2022-05-28
+PROD00030,UrbanLine Mouse,Electronics,UrbanLine,58.01,35.53,true,2024-10-19
+PROD00031,CoreMax Headphones,Electronics,CoreMax,254.34,173.07,true,2022-09-02
+PROD00032,PeakFit Monitor,Electronics,PeakFit,98.21,77.26,true,2021-09-03
+PROD00033,UrbanLine Mouse,Electronics,UrbanLine,266.22,182.68,true,2024-03-26
+PROD00034,AeroWave Headphones,Electronics,AeroWave,219.8,159.29,true,2022-07-09
+PROD00035,PeakFit Mouse,Electronics,PeakFit,85.3,57.95,true,2022-08-11
+PROD00036,NovaTech Headphones,Electronics,NovaTech,405.06,279.87,true,2021-10-21
+PROD00037,GlowCare Monitor,Electronics,GlowCare,330.93,187.28,true,2023-11-04
+PROD00038,BrightKart Keyboard,Electronics,BrightKart,199.14,148.56,true,2023-03-26
+PROD00039,ZenStyle Headphones,Electronics,ZenStyle,417.51,233.26,true,2024-09-29
+PROD00040,HomeNest Monitor,Electronics,HomeNest,447.93,272.14,true,2021-04-28
+PROD00041,UrbanLine Headphones,Electronics,UrbanLine,284.59,242.93,true,2021-12-19
+PROD00042,HomeNest Keyboard,Electronics,HomeNest,223.59,161.24,true,2021-10-30
+PROD00043,ZenStyle Monitor,Electronics,ZenStyle,137.77,103.95,true,2021-03-03
+PROD00044,PeakFit Keyboard,Electronics,PeakFit,124.93,82.86,false,2023-03-29
+PROD00045,BrightKart Mouse,Electronics,BrightKart,25.86,15.22,true,2023-05-07
+PROD00046,AeroWave Monitor,Electronics,AeroWave,136.35,100.84,true,2024-04-14
+PROD00047,PrimeEdge Keyboard,Electronics,PrimeEdge,205.68,173.39,true,2022-09-02
+PROD00048,BrightKart Headphones,Electronics,BrightKart,303.44,185.73,true,2022-10-01
+PROD00049,UrbanLine Monitor,Electronics,UrbanLine,35.33,19.88,true,2024-09-17
+PROD00050,GlowCare Mouse,Electronics,GlowCare,140.38,91.66,true,2022-06-28
+PROD00051,ZenStyle Monitor,Electronics,ZenStyle,328.13,260.73,true,2023-07-28
+PROD00052,NovaTech Mouse,Electronics,NovaTech,93.14,65.65,true,2022-05-02
+PROD00053,GlowCare Keyboard,Electronics,GlowCare,161.74,122.11,true,2023-03-25
+PROD00054,CoreMax Mouse,Electronics,CoreMax,396.2,229.21,true,2021-06-24
+PROD00055,NovaTech Speaker,Electronics,NovaTech,371.96,273.87,true,2022-04-27
+PROD00056,BrightKart Keyboard,Electronics,BrightKart,177.22,148.14,true,2021-06-07
+PROD00057,AeroWave Speaker,Electronics,AeroWave,53.18,38.65,true,2024-10-27
+PROD00058,PrimeEdge Keyboard,Electronics,PrimeEdge,42.71,27.77,true,2021-10-26
+PROD00059,PeakFit Speaker,Electronics,PeakFit,363.77,277.6,true,2021-05-25
+PROD00060,AeroWave Monitor,Electronics,AeroWave,348.06,238.24,true,2021-06-27
+PROD00061,AeroWave Monitor,Electronics,AeroWave,257.92,205.49,true,2023-01-16
+PROD00062,HomeNest Speaker,Electronics,HomeNest,154.88,133.62,false,2024-02-21
+PROD00063,GlowCare Keyboard,Electronics,GlowCare,24.41,19.06,true,2023-08-25
+PROD00064,BrightKart Keyboard,Electronics,BrightKart,312.89,255.83,false,2022-01-09
+PROD00065,CoreMax Monitor,Electronics,CoreMax,195.66,124.71,true,2024-01-16
+PROD00066,PrimeEdge Monitor,Electronics,PrimeEdge,155.88,113.92,true,2021-02-21
+PROD00067,PeakFit Keyboard,Electronics,PeakFit,205.19,147.94,false,2022-02-18
+PROD00068,GlowCare Headphones,Electronics,GlowCare,165.85,143.75,true,2024-02-22
+PROD00069,HomeNest Keyboard,Electronics,HomeNest,167.13,138.52,true,2024-10-29
+PROD00070,ZenStyle Keyboard,Electronics,ZenStyle,151.97,90.16,true,2024-03-10
+PROD00071,PeakFit Speaker,Electronics,PeakFit,304.88,191.1,true,2024-06-28
+PROD00072,AeroWave Speaker,Electronics,AeroWave,120.46,81.71,true,2021-09-15
+PROD00073,HomeNest Keyboard,Electronics,HomeNest,458.72,282.27,true,2022-03-15
+PROD00074,NovaTech Mouse,Electronics,NovaTech,259.32,205.32,true,2021-06-25
+PROD00075,PrimeEdge Mouse,Electronics,PrimeEdge,238.96,153.19,true,2021-06-04
+PROD00076,PrimeEdge Headphones,Electronics,PrimeEdge,405.14,240.83,true,2024-05-13
+PROD00077,NovaTech Speaker,Electronics,NovaTech,128.42,82.52,true,2023-03-18
+PROD00078,PeakFit Monitor,Electronics,PeakFit,494.35,298.61,true,2021-09-18
+PROD00079,AeroWave Monitor,Electronics,AeroWave,226.24,182.68,true,2022-04-22
+PROD00080,PeakFit Monitor,Electronics,PeakFit,74.36,59.68,true,2022-12-15
+PROD00081,AeroWave Keyboard,Electronics,AeroWave,24.01,19.8,false,2024-03-30
+PROD00082,PrimeEdge Keyboard,Electronics,PrimeEdge,402.61,280.04,true,2021-07-17
+PROD00083,AeroWave Monitor,Electronics,AeroWave,439.86,245.37,true,2023-05-15
+PROD00084,BrightKart Speaker,Electronics,BrightKart,99.63,56.18,false,2022-10-28
+PROD00085,HomeNest Keyboard,Electronics,HomeNest,251.73,176.41,true,2022-11-30
+PROD00086,PeakFit Mouse,Electronics,PeakFit,274.62,194.22,true,2023-09-08
+PROD00087,CoreMax Headphones,Electronics,CoreMax,52.8,30.29,true,2024-09-10
+PROD00088,PeakFit Monitor,Electronics,PeakFit,94.45,62.03,false,2024-12-24
+PROD00089,GlowCare Speaker,Electronics,GlowCare,398.57,292.15,true,2021-04-22
+PROD00090,BrightKart Keyboard,Electronics,BrightKart,278.71,176.19,true,2022-11-28
+PROD00091,ZenStyle Monitor,Electronics,ZenStyle,455.07,265.26,true,2022-12-29
+PROD00092,PrimeEdge Speaker,Electronics,PrimeEdge,48.2,27.19,true,2023-04-25
+PROD00093,BrightKart Monitor,Electronics,BrightKart,29.36,23.13,true,2023-02-14
+PROD00094,PrimeEdge Mouse,Electronics,PrimeEdge,356.79,214.23,true,2024-11-06
+PROD00095,HomeNest Mouse,Electronics,HomeNest,158.92,137.84,true,2022-02-08
+PROD00096,GlowCare Keyboard,Electronics,GlowCare,313.6,184.09,true,2023-05-31
+PROD00097,ZenStyle Headphones,Electronics,ZenStyle,235.53,143.04,true,2021-10-30
+PROD00098,UrbanLine Keyboard,Electronics,UrbanLine,410.79,258.06,true,2024-08-15
+PROD00099,ZenStyle Speaker,Electronics,ZenStyle,91.36,61.58,false,2021-02-27
+PROD00100,ZenStyle Mouse,Electronics,ZenStyle,94.18,65.18,true,2021-03-06
+PROD00101,AeroWave Storage Box,Home,AeroWave,266.98,164.43,true,2021-01-31
+PROD00102,HomeNest Lamp,Home,HomeNest,66.44,54.65,true,2022-10-06
+PROD00103,UrbanLine Vacuum,Home,UrbanLine,393.07,289.75,true,2022-02-18
+PROD00104,UrbanLine Lamp,Home,UrbanLine,373.93,210.55,false,2024-10-11
+PROD00105,BrightKart Chair,Home,BrightKart,122.08,72.92,true,2022-06-19
+PROD00106,AeroWave Chair,Home,AeroWave,448.89,262.13,true,2022-05-13
+PROD00107,PeakFit Storage Box,Home,PeakFit,122.59,100.48,true,2024-01-21
+PROD00108,PeakFit Lamp,Home,PeakFit,25.58,14.62,true,2024-03-12
+PROD00109,GlowCare Storage Box,Home,GlowCare,159.25,105.59,true,2021-12-22
+PROD00110,AeroWave Vacuum,Home,AeroWave,223.87,140.95,true,2024-03-19
+PROD00111,CoreMax Storage Box,Home,CoreMax,416.46,291.7,true,2023-01-27
+PROD00112,PrimeEdge Storage Box,Home,PrimeEdge,109.54,62.66,true,2022-05-25
+PROD00113,UrbanLine Vacuum,Home,UrbanLine,112.06,64.09,true,2021-08-16
+PROD00114,ZenStyle Blender,Home,ZenStyle,356.05,209.24,true,2023-06-02
+PROD00115,NovaTech Blender,Home,NovaTech,129.38,99.02,true,2024-10-28
+PROD00116,HomeNest Blender,Home,HomeNest,141.52,117.85,true,2024-12-06
+PROD00117,NovaTech Blender,Home,NovaTech,210.15,128.19,true,2022-05-06
+PROD00118,UrbanLine Lamp,Home,UrbanLine,207.25,138.76,false,2022-09-12
+PROD00119,PrimeEdge Blender,Home,PrimeEdge,288.03,232.04,false,2023-05-23
+PROD00120,NovaTech Lamp,Home,NovaTech,129.13,85.49,true,2024-06-09
+PROD00121,PrimeEdge Chair,Home,PrimeEdge,277.85,227.99,true,2023-06-28
+PROD00122,AeroWave Blender,Home,AeroWave,394.41,224.3,true,2024-11-14
+PROD00123,GlowCare Blender,Home,GlowCare,15.26,9.21,true,2024-05-29
+PROD00124,AeroWave Vacuum,Home,AeroWave,95.57,77.8,true,2022-10-31
+PROD00125,BrightKart Vacuum,Home,BrightKart,361.24,252.19,true,2024-12-16
+PROD00126,GlowCare Storage Box,Home,GlowCare,29.93,19.41,true,2021-09-15
+PROD00127,AeroWave Blender,Home,AeroWave,126.37,88.0,false,2024-07-18
+PROD00128,GlowCare Storage Box,Home,GlowCare,38.58,31.26,true,2024-06-16
+PROD00129,HomeNest Blender,Home,HomeNest,204.07,125.56,true,2023-11-10
+PROD00130,PeakFit Vacuum,Home,PeakFit,230.32,154.59,true,2021-08-26
+PROD00131,PrimeEdge Lamp,Home,PrimeEdge,268.15,187.8,true,2022-03-19
+PROD00132,AeroWave Lamp,Home,AeroWave,259.92,163.06,true,2024-06-18
+PROD00133,PrimeEdge Chair,Home,PrimeEdge,234.29,141.66,true,2022-05-22
+PROD00134,CoreMax Vacuum,Home,CoreMax,449.58,279.7,false,2021-10-31
+PROD00135,GlowCare Vacuum,Home,GlowCare,114.94,71.84,true,2023-05-13
+PROD00136,CoreMax Lamp,Home,CoreMax,182.04,151.71,true,2023-06-15
+PROD00137,AeroWave Lamp,Home,AeroWave,247.46,181.11,true,2024-05-25
+PROD00138,NovaTech Vacuum,Home,NovaTech,198.07,130.37,false,2022-11-21
+PROD00139,PrimeEdge Lamp,Home,PrimeEdge,117.42,82.78,true,2024-05-27
+PROD00140,PeakFit Blender,Home,PeakFit,215.85,158.55,true,2021-09-06
+PROD00141,HomeNest Storage Box,Home,HomeNest,349.3,211.74,true,2022-03-26
+PROD00142,PrimeEdge Vacuum,Home,PrimeEdge,281.3,212.92,true,2022-12-31
+PROD00143,NovaTech Vacuum,Home,NovaTech,255.38,176.04,true,2021-10-29
+PROD00144,CoreMax Lamp,Home,CoreMax,396.54,286.42,true,2021-03-09
+PROD00145,AeroWave Chair,Home,AeroWave,82.23,51.87,true,2024-07-27
+PROD00146,HomeNest Chair,Home,HomeNest,198.66,113.61,true,2023-02-18
+PROD00147,ZenStyle Chair,Home,ZenStyle,375.41,237.86,true,2024-03-14
+PROD00148,AeroWave Blender,Home,AeroWave,43.45,27.69,false,2021-02-27
+PROD00149,UrbanLine Vacuum,Home,UrbanLine,251.22,188.33,true,2021-12-14
+PROD00150,BrightKart Vacuum,Home,BrightKart,57.18,35.25,true,2021-08-31
+PROD00151,NovaTech Blender,Home,NovaTech,237.23,156.45,true,2021-04-18
+PROD00152,AeroWave Lamp,Home,AeroWave,49.71,30.97,false,2021-02-28
+PROD00153,PrimeEdge Lamp,Home,PrimeEdge,245.3,208.04,true,2022-09-15
+PROD00154,ZenStyle Vacuum,Home,ZenStyle,86.84,57.06,true,2023-01-29
+PROD00155,HomeNest Lamp,Home,HomeNest,187.08,147.07,false,2021-02-27
+PROD00156,ZenStyle Storage Box,Home,ZenStyle,171.49,106.75,true,2022-10-04
+PROD00157,GlowCare Storage Box,Home,GlowCare,149.47,88.65,true,2022-02-05
+PROD00158,CoreMax Lamp,Home,CoreMax,223.39,165.49,true,2022-12-03
+PROD00159,NovaTech Storage Box,Home,NovaTech,88.54,66.12,true,2021-04-19
+PROD00160,GlowCare Lamp,Home,GlowCare,36.84,31.31,true,2021-04-11
+PROD00161,GlowCare Vacuum,Home,GlowCare,285.15,242.34,true,2024-08-01
+PROD00162,GlowCare Lamp,Home,GlowCare,341.82,278.54,true,2024-10-30
+PROD00163,HomeNest Lamp,Home,HomeNest,142.09,88.99,true,2024-12-22
+PROD00164,ZenStyle Chair,Home,ZenStyle,61.07,37.75,true,2021-07-24
+PROD00165,PeakFit Storage Box,Home,PeakFit,44.97,32.15,true,2023-06-08
+PROD00166,PeakFit Storage Box,Home,PeakFit,344.55,288.67,true,2023-08-03
+PROD00167,UrbanLine Storage Box,Home,UrbanLine,322.57,204.17,true,2024-01-20
+PROD00168,HomeNest Lamp,Home,HomeNest,417.24,275.93,true,2024-03-28
+PROD00169,PeakFit Chair,Home,PeakFit,381.08,240.34,true,2023-07-11
+PROD00170,HomeNest Vacuum,Home,HomeNest,336.0,235.79,true,2024-09-12
+PROD00171,PrimeEdge Chair,Home,PrimeEdge,252.53,198.37,true,2023-07-14
+PROD00172,BrightKart Storage Box,Home,BrightKart,140.2,78.46,true,2021-11-29
+PROD00173,PeakFit Chair,Home,PeakFit,117.76,73.3,false,2021-10-22
+PROD00174,UrbanLine Lamp,Home,UrbanLine,199.39,145.09,true,2022-06-20
+PROD00175,PrimeEdge Chair,Home,PrimeEdge,28.38,18.1,true,2024-06-28
+PROD00176,PeakFit Blender,Home,PeakFit,221.39,158.75,true,2024-06-13
+PROD00177,PrimeEdge Lamp,Home,PrimeEdge,473.45,285.48,true,2021-02-20
+PROD00178,HomeNest Blender,Home,HomeNest,122.26,69.95,true,2023-06-30
+PROD00179,HomeNest Vacuum,Home,HomeNest,382.05,284.67,true,2021-12-31
+PROD00180,BrightKart Storage Box,Home,BrightKart,186.66,120.41,true,2022-04-28
+PROD00181,CoreMax Vacuum,Home,CoreMax,145.81,106.8,true,2021-02-25
+PROD00182,UrbanLine Chair,Home,UrbanLine,472.86,294.69,true,2024-10-21
+PROD00183,GlowCare Vacuum,Home,GlowCare,226.27,167.42,false,2021-10-17
+PROD00184,GlowCare Blender,Home,GlowCare,26.56,21.8,true,2023-08-13
+PROD00185,PeakFit Lamp,Home,PeakFit,89.36,55.17,true,2023-07-24
+PROD00186,PrimeEdge Storage Box,Home,PrimeEdge,29.02,21.12,true,2024-07-08
+PROD00187,HomeNest Storage Box,Home,HomeNest,203.49,174.38,true,2021-12-27
+PROD00188,UrbanLine Vacuum,Home,UrbanLine,283.64,218.32,true,2021-09-26
+PROD00189,NovaTech Chair,Home,NovaTech,515.73,296.24,false,2023-07-19
+PROD00190,AeroWave Storage Box,Home,AeroWave,354.8,246.18,true,2021-08-23
+PROD00191,HomeNest Blender,Home,HomeNest,222.2,141.68,true,2024-05-28
+PROD00192,HomeNest Lamp,Home,HomeNest,353.71,212.07,true,2022-12-16
+PROD00193,BrightKart Blender,Home,BrightKart,222.96,131.68,false,2024-06-05
+PROD00194,PeakFit Chair,Home,PeakFit,212.24,149.29,true,2022-03-02
+PROD00195,AeroWave Vacuum,Home,AeroWave,283.22,175.25,true,2021-12-29
+PROD00196,AeroWave Storage Box,Home,AeroWave,507.93,288.78,true,2021-11-23
+PROD00197,PeakFit Storage Box,Home,PeakFit,294.12,181.39,false,2021-03-09
+PROD00198,GlowCare Storage Box,Home,GlowCare,315.37,263.07,true,2023-10-18
+PROD00199,ZenStyle Lamp,Home,ZenStyle,167.52,131.14,true,2024-02-12
+PROD00200,BrightKart Vacuum,Home,BrightKart,463.53,280.88,true,2024-01-18
+PROD00201,ZenStyle Bottle,Sports,ZenStyle,204.79,133.91,true,2024-10-18
+PROD00202,NovaTech Resistance Band,Sports,NovaTech,151.24,99.86,true,2021-04-18
+PROD00203,PrimeEdge Resistance Band,Sports,PrimeEdge,336.49,220.26,true,2022-11-22
+PROD00204,AeroWave Yoga Mat,Sports,AeroWave,205.12,177.84,false,2021-10-09
+PROD00205,CoreMax Resistance Band,Sports,CoreMax,188.75,139.63,true,2023-05-20
+PROD00206,PrimeEdge Resistance Band,Sports,PrimeEdge,210.58,152.36,true,2021-04-07
+PROD00207,BrightKart Resistance Band,Sports,BrightKart,404.18,252.58,true,2022-03-28
+PROD00208,CoreMax Dumbbell,Sports,CoreMax,185.01,114.53,true,2023-05-06
+PROD00209,AeroWave Resistance Band,Sports,AeroWave,8.38,5.02,true,2021-02-26
+PROD00210,PeakFit Ball,Sports,PeakFit,73.61,58.25,true,2022-04-05
+PROD00211,PeakFit Yoga Mat,Sports,PeakFit,279.83,176.35,true,2022-06-28
+PROD00212,ZenStyle Dumbbell,Sports,ZenStyle,158.55,116.52,true,2022-08-25
+PROD00213,GlowCare Resistance Band,Sports,GlowCare,260.8,179.08,true,2022-10-08
+PROD00214,PrimeEdge Dumbbell,Sports,PrimeEdge,378.32,284.61,true,2024-05-10
+PROD00215,AeroWave Ball,Sports,AeroWave,110.76,70.96,true,2022-11-10
+PROD00216,PrimeEdge Bottle,Sports,PrimeEdge,312.75,184.69,false,2021-05-17
+PROD00217,AeroWave Ball,Sports,AeroWave,97.36,70.74,false,2024-12-29
+PROD00218,PeakFit Dumbbell,Sports,PeakFit,243.87,167.29,true,2021-06-12
+PROD00219,PrimeEdge Yoga Mat,Sports,PrimeEdge,249.81,209.44,true,2023-10-14
+PROD00220,ZenStyle Ball,Sports,ZenStyle,93.6,78.58,true,2022-08-12
+PROD00221,HomeNest Resistance Band,Sports,HomeNest,113.99,66.94,false,2024-01-17
+PROD00222,NovaTech Yoga Mat,Sports,NovaTech,112.63,97.78,true,2024-05-24
+PROD00223,PrimeEdge Yoga Mat,Sports,PrimeEdge,343.6,198.05,true,2021-05-07
+PROD00224,PrimeEdge Bottle,Sports,PrimeEdge,247.83,149.77,true,2022-06-21
+PROD00225,PrimeEdge Bottle,Sports,PrimeEdge,279.47,221.94,true,2022-09-06
+PROD00226,CoreMax Yoga Mat,Sports,CoreMax,456.53,271.93,true,2022-01-18
+PROD00227,AeroWave Resistance Band,Sports,AeroWave,99.82,85.07,true,2024-01-26
+PROD00228,AeroWave Dumbbell,Sports,AeroWave,164.18,102.04,true,2021-09-02
+PROD00229,PrimeEdge Yoga Mat,Sports,PrimeEdge,24.65,19.21,true,2023-07-06
+PROD00230,ZenStyle Yoga Mat,Sports,ZenStyle,380.68,249.38,true,2024-09-08
+PROD00231,UrbanLine Resistance Band,Sports,UrbanLine,389.03,272.92,true,2021-08-19
+PROD00232,UrbanLine Bottle,Sports,UrbanLine,83.66,55.69,true,2022-02-24
+PROD00233,AeroWave Ball,Sports,AeroWave,487.4,293.59,false,2023-01-17
+PROD00234,ZenStyle Dumbbell,Sports,ZenStyle,168.5,141.59,true,2024-04-09
+PROD00235,PeakFit Dumbbell,Sports,PeakFit,216.45,127.68,true,2023-02-07
+PROD00236,GlowCare Ball,Sports,GlowCare,259.93,181.42,true,2023-12-09
+PROD00237,ZenStyle Dumbbell,Sports,ZenStyle,151.48,130.29,true,2024-12-28
+PROD00238,UrbanLine Bottle,Sports,UrbanLine,232.5,199.12,false,2022-06-15
+PROD00239,BrightKart Ball,Sports,BrightKart,242.21,177.14,true,2022-02-25
+PROD00240,GlowCare Ball,Sports,GlowCare,401.39,264.84,true,2022-02-15
+PROD00241,AeroWave Resistance Band,Sports,AeroWave,255.46,172.29,true,2024-04-27
+PROD00242,CoreMax Dumbbell,Sports,CoreMax,383.74,221.96,true,2023-10-17
+PROD00243,CoreMax Yoga Mat,Sports,CoreMax,245.11,157.18,true,2021-09-03
+PROD00244,ZenStyle Dumbbell,Sports,ZenStyle,318.22,184.98,true,2022-03-03
+PROD00245,GlowCare Yoga Mat,Sports,GlowCare,98.83,74.36,true,2021-01-26
+PROD00246,PeakFit Yoga Mat,Sports,PeakFit,219.0,149.45,false,2023-05-03
+PROD00247,CoreMax Dumbbell,Sports,CoreMax,248.7,148.17,true,2023-11-16
+PROD00248,PeakFit Dumbbell,Sports,PeakFit,66.17,55.94,true,2021-10-18
+PROD00249,GlowCare Yoga Mat,Sports,GlowCare,118.23,88.17,true,2022-10-14
+PROD00250,ZenStyle Ball,Sports,ZenStyle,269.85,156.9,true,2021-07-20
+PROD00251,PrimeEdge Bottle,Sports,PrimeEdge,133.5,109.21,true,2022-08-19
+PROD00252,PrimeEdge Bottle,Sports,PrimeEdge,208.05,179.41,true,2023-11-13
+PROD00253,PeakFit Dumbbell,Sports,PeakFit,104.5,86.12,true,2024-12-17
+PROD00254,HomeNest Ball,Sports,HomeNest,425.57,256.3,true,2023-10-10
+PROD00255,HomeNest Bottle,Sports,HomeNest,104.89,80.95,true,2022-12-01
+PROD00256,PeakFit Ball,Sports,PeakFit,172.42,102.97,true,2023-10-17
+PROD00257,HomeNest Dumbbell,Sports,HomeNest,412.14,276.91,true,2023-04-17
+PROD00258,PeakFit Dumbbell,Sports,PeakFit,29.34,18.83,true,2021-11-16
+PROD00259,PrimeEdge Resistance Band,Sports,PrimeEdge,178.43,128.44,true,2023-04-08
+PROD00260,UrbanLine Yoga Mat,Sports,UrbanLine,171.34,118.69,true,2023-05-05
+PROD00261,CoreMax Yoga Mat,Sports,CoreMax,55.32,45.39,true,2022-07-03
+PROD00262,BrightKart Resistance Band,Sports,BrightKart,214.54,132.65,true,2024-09-29
+PROD00263,PeakFit Resistance Band,Sports,PeakFit,307.42,249.3,true,2022-11-13
+PROD00264,UrbanLine Yoga Mat,Sports,UrbanLine,99.73,75.75,false,2023-02-12
+PROD00265,AeroWave Ball,Sports,AeroWave,16.05,12.98,false,2021-06-19
+PROD00266,CoreMax Bottle,Sports,CoreMax,495.63,282.45,true,2022-12-31
+PROD00267,GlowCare Ball,Sports,GlowCare,318.54,221.91,true,2022-08-27
+PROD00268,NovaTech Dumbbell,Sports,NovaTech,118.44,90.21,true,2021-09-15
+PROD00269,AeroWave Resistance Band,Sports,AeroWave,192.29,126.52,false,2021-01-04
+PROD00270,AeroWave Resistance Band,Sports,AeroWave,46.38,34.76,true,2022-09-17
+PROD00271,ZenStyle Bottle,Sports,ZenStyle,115.0,96.29,true,2022-10-14
+PROD00272,PeakFit Bottle,Sports,PeakFit,315.01,212.48,true,2023-12-30
+PROD00273,BrightKart Bottle,Sports,BrightKart,114.73,98.81,true,2024-06-04
+PROD00274,GlowCare Yoga Mat,Sports,GlowCare,90.59,75.28,true,2022-08-25
+PROD00275,HomeNest Yoga Mat,Sports,HomeNest,342.3,282.04,true,2024-12-10
+PROD00276,ZenStyle Ball,Sports,ZenStyle,157.27,105.37,false,2022-03-16
+PROD00277,ZenStyle Resistance Band,Sports,ZenStyle,332.72,269.16,true,2021-09-07
+PROD00278,PeakFit Bottle,Sports,PeakFit,65.12,53.15,true,2021-01-04
+PROD00279,HomeNest Ball,Sports,HomeNest,104.54,86.14,true,2023-08-31
+PROD00280,HomeNest Dumbbell,Sports,HomeNest,499.06,292.52,true,2021-03-31
+PROD00281,UrbanLine Bottle,Sports,UrbanLine,249.85,181.76,true,2021-04-11
+PROD00282,HomeNest Resistance Band,Sports,HomeNest,80.78,52.55,false,2024-02-15
+PROD00283,ZenStyle Ball,Sports,ZenStyle,362.37,281.71,true,2021-11-23
+PROD00284,CoreMax Yoga Mat,Sports,CoreMax,157.98,105.73,true,2023-01-19
+PROD00285,PeakFit Ball,Sports,PeakFit,513.17,290.96,true,2021-06-29
+PROD00286,GlowCare Ball,Sports,GlowCare,397.97,241.03,true,2021-07-24
+PROD00287,CoreMax Ball,Sports,CoreMax,158.74,107.27,false,2023-11-23
+PROD00288,UrbanLine Ball,Sports,UrbanLine,457.44,274.02,false,2024-06-24
+PROD00289,CoreMax Dumbbell,Sports,CoreMax,67.99,40.43,true,2022-04-27
+PROD00290,NovaTech Dumbbell,Sports,NovaTech,161.02,126.46,false,2024-09-05
+PROD00291,HomeNest Bottle,Sports,HomeNest,311.82,244.17,true,2024-02-29
+PROD00292,PrimeEdge Yoga Mat,Sports,PrimeEdge,212.03,136.22,true,2021-04-14
+PROD00293,PeakFit Dumbbell,Sports,PeakFit,120.85,90.86,true,2024-07-07
+PROD00294,PrimeEdge Yoga Mat,Sports,PrimeEdge,311.07,195.34,true,2022-04-06
+PROD00295,HomeNest Resistance Band,Sports,HomeNest,94.33,70.36,true,2021-01-08
+PROD00296,ZenStyle Ball,Sports,ZenStyle,290.84,230.65,true,2023-09-11
+PROD00297,PrimeEdge Dumbbell,Sports,PrimeEdge,389.05,222.34,true,2021-10-05
+PROD00298,AeroWave Dumbbell,Sports,AeroWave,253.69,151.25,false,2023-06-04
+PROD00299,NovaTech Yoga Mat,Sports,NovaTech,82.12,48.21,false,2023-10-28
+PROD00300,ZenStyle Dumbbell,Sports,ZenStyle,414.79,230.74,true,2024-08-27
+PROD00301,PeakFit Sneakers,Fashion,PeakFit,430.74,299.87,false,2024-04-08
+PROD00302,AeroWave T-Shirt,Fashion,AeroWave,82.23,47.29,true,2021-06-24
+PROD00303,ZenStyle Backpack,Fashion,ZenStyle,229.36,150.44,true,2023-05-23
+PROD00304,NovaTech Sneakers,Fashion,NovaTech,481.52,279.71,true,2021-04-18
+PROD00305,GlowCare Sneakers,Fashion,GlowCare,478.72,292.18,true,2023-06-16
+PROD00306,UrbanLine T-Shirt,Fashion,UrbanLine,248.02,201.28,true,2023-03-08
+PROD00307,ZenStyle Sneakers,Fashion,ZenStyle,132.37,113.53,true,2021-02-09
+PROD00308,BrightKart Jacket,Fashion,BrightKart,311.65,226.37,true,2022-05-05
+PROD00309,HomeNest Jacket,Fashion,HomeNest,284.9,166.86,true,2024-08-01
+PROD00310,GlowCare Backpack,Fashion,GlowCare,335.29,241.57,true,2023-03-07
+PROD00311,PeakFit T-Shirt,Fashion,PeakFit,56.19,36.61,true,2024-01-03
+PROD00312,BrightKart Jeans,Fashion,BrightKart,105.93,62.14,true,2022-11-08
+PROD00313,PeakFit T-Shirt,Fashion,PeakFit,269.11,180.75,true,2022-02-26
+PROD00314,PeakFit T-Shirt,Fashion,PeakFit,152.61,117.29,true,2023-01-14
+PROD00315,ZenStyle Jacket,Fashion,ZenStyle,307.93,203.65,true,2024-10-17
+PROD00316,PeakFit Jeans,Fashion,PeakFit,238.13,174.85,true,2022-11-21
+PROD00317,BrightKart Jacket,Fashion,BrightKart,84.78,70.65,false,2021-07-08
+PROD00318,AeroWave Sneakers,Fashion,AeroWave,478.17,270.32,true,2022-02-27
+PROD00319,HomeNest Sneakers,Fashion,HomeNest,179.51,109.72,true,2021-11-21
+PROD00320,PeakFit Jacket,Fashion,PeakFit,390.26,296.51,true,2023-07-15
+PROD00321,PeakFit Jeans,Fashion,PeakFit,201.68,125.76,true,2021-06-01
+PROD00322,ZenStyle Sneakers,Fashion,ZenStyle,237.43,178.47,true,2022-11-18
+PROD00323,GlowCare Jeans,Fashion,GlowCare,275.64,218.6,true,2023-01-08
+PROD00324,GlowCare Jacket,Fashion,GlowCare,362.74,291.18,true,2024-05-22
+PROD00325,NovaTech Backpack,Fashion,NovaTech,150.39,115.76,true,2024-06-18
+PROD00326,NovaTech Jacket,Fashion,NovaTech,267.19,209.91,true,2024-06-28
+PROD00327,UrbanLine Jeans,Fashion,UrbanLine,43.69,37.02,true,2023-02-18
+PROD00328,PrimeEdge Jeans,Fashion,PrimeEdge,232.32,182.88,true,2021-07-16
+PROD00329,GlowCare Sneakers,Fashion,GlowCare,321.67,244.47,true,2022-12-13
+PROD00330,HomeNest Sneakers,Fashion,HomeNest,367.44,252.98,true,2024-12-12
+PROD00331,CoreMax Jacket,Fashion,CoreMax,21.56,12.89,true,2022-11-25
+PROD00332,AeroWave Sneakers,Fashion,AeroWave,464.29,295.88,true,2023-05-25
+PROD00333,GlowCare Sneakers,Fashion,GlowCare,276.65,191.93,false,2023-07-09
+PROD00334,ZenStyle Backpack,Fashion,ZenStyle,112.48,81.68,true,2021-11-28
+PROD00335,NovaTech Backpack,Fashion,NovaTech,375.49,220.71,true,2023-02-27
+PROD00336,ZenStyle Jeans,Fashion,ZenStyle,150.49,101.35,false,2023-10-11
+PROD00337,NovaTech Sneakers,Fashion,NovaTech,420.02,243.01,true,2023-12-07
+PROD00338,ZenStyle Jacket,Fashion,ZenStyle,458.04,278.29,true,2021-04-27
+PROD00339,AeroWave T-Shirt,Fashion,AeroWave,242.51,161.33,true,2023-06-19
+PROD00340,GlowCare Backpack,Fashion,GlowCare,140.37,115.07,false,2022-04-01
+PROD00341,BrightKart Sneakers,Fashion,BrightKart,231.2,147.29,false,2024-06-17
+PROD00342,ZenStyle Jeans,Fashion,ZenStyle,134.46,104.18,true,2021-02-11
+PROD00343,PrimeEdge Jeans,Fashion,PrimeEdge,400.95,288.6,false,2024-08-05
+PROD00344,AeroWave Jeans,Fashion,AeroWave,44.09,26.75,true,2022-12-20
+PROD00345,AeroWave T-Shirt,Fashion,AeroWave,82.59,65.15,false,2022-05-19
+PROD00346,HomeNest T-Shirt,Fashion,HomeNest,240.5,206.78,true,2022-10-01
+PROD00347,UrbanLine Sneakers,Fashion,UrbanLine,275.76,188.42,false,2024-09-06
+PROD00348,NovaTech T-Shirt,Fashion,NovaTech,99.02,67.34,true,2021-01-30
+PROD00349,HomeNest Backpack,Fashion,HomeNest,81.78,50.34,true,2024-04-26
+PROD00350,UrbanLine T-Shirt,Fashion,UrbanLine,416.98,288.28,true,2021-03-11
+PROD00351,NovaTech Jacket,Fashion,NovaTech,228.15,187.64,true,2023-04-24
+PROD00352,NovaTech Backpack,Fashion,NovaTech,244.91,167.81,true,2023-09-02
+PROD00353,BrightKart T-Shirt,Fashion,BrightKart,402.6,241.58,true,2022-12-08
+PROD00354,ZenStyle Jeans,Fashion,ZenStyle,168.76,96.31,true,2021-03-30
+PROD00355,PrimeEdge Jacket,Fashion,PrimeEdge,460.35,274.07,true,2022-08-22
+PROD00356,PrimeEdge T-Shirt,Fashion,PrimeEdge,246.96,208.27,true,2022-03-18
+PROD00357,BrightKart Sneakers,Fashion,BrightKart,201.27,117.48,true,2021-01-18
+PROD00358,NovaTech T-Shirt,Fashion,NovaTech,219.72,160.36,true,2023-07-19
+PROD00359,ZenStyle T-Shirt,Fashion,ZenStyle,27.22,23.4,true,2021-11-03
+PROD00360,UrbanLine Jeans,Fashion,UrbanLine,77.31,54.94,true,2024-06-11
+PROD00361,UrbanLine Sneakers,Fashion,UrbanLine,298.29,254.24,true,2024-01-24
+PROD00362,PrimeEdge Jacket,Fashion,PrimeEdge,83.18,62.8,false,2021-08-18
+PROD00363,ZenStyle Jacket,Fashion,ZenStyle,198.83,133.73,true,2021-05-13
+PROD00364,GlowCare T-Shirt,Fashion,GlowCare,223.6,186.09,true,2022-04-15
+PROD00365,PeakFit Backpack,Fashion,PeakFit,310.96,224.39,false,2023-02-20
+PROD00366,PrimeEdge Jeans,Fashion,PrimeEdge,416.29,281.38,true,2021-09-06
+PROD00367,PeakFit Jacket,Fashion,PeakFit,64.19,37.02,true,2021-02-10
+PROD00368,GlowCare Sneakers,Fashion,GlowCare,426.75,256.87,false,2023-03-11
+PROD00369,NovaTech Sneakers,Fashion,NovaTech,469.43,291.76,true,2021-06-21
+PROD00370,AeroWave Jeans,Fashion,AeroWave,331.59,250.98,true,2021-04-14
+PROD00371,AeroWave Jacket,Fashion,AeroWave,333.45,187.22,true,2021-12-16
+PROD00372,GlowCare Jeans,Fashion,GlowCare,244.26,197.0,true,2022-05-17
+PROD00373,HomeNest Jeans,Fashion,HomeNest,56.63,39.03,true,2022-08-12
+PROD00374,ZenStyle Jacket,Fashion,ZenStyle,481.0,283.19,true,2021-11-11
+PROD00375,NovaTech Jeans,Fashion,NovaTech,196.92,123.18,false,2024-07-29
+PROD00376,HomeNest T-Shirt,Fashion,HomeNest,54.0,36.23,true,2023-05-22
+PROD00377,GlowCare Sneakers,Fashion,GlowCare,198.66,157.83,true,2023-09-29
+PROD00378,ZenStyle T-Shirt,Fashion,ZenStyle,424.7,274.05,true,2022-09-05
+PROD00379,HomeNest Jacket,Fashion,HomeNest,21.72,14.23,true,2023-05-05
+PROD00380,BrightKart Jacket,Fashion,BrightKart,78.9,56.52,true,2024-12-23
+PROD00381,GlowCare Jacket,Fashion,GlowCare,390.99,254.08,true,2022-06-11
+PROD00382,BrightKart T-Shirt,Fashion,BrightKart,166.99,92.85,true,2022-06-11
+PROD00383,GlowCare Backpack,Fashion,GlowCare,385.13,221.21,true,2023-08-17
+PROD00384,HomeNest T-Shirt,Fashion,HomeNest,360.77,207.92,true,2021-08-16
+PROD00385,GlowCare Jeans,Fashion,GlowCare,80.25,54.36,false,2022-03-10
+PROD00386,CoreMax Jeans,Fashion,CoreMax,396.52,273.13,true,2021-10-27
+PROD00387,BrightKart Jacket,Fashion,BrightKart,177.58,130.74,true,2024-07-17
+PROD00388,ZenStyle Jeans,Fashion,ZenStyle,427.34,259.07,true,2023-05-28
+PROD00389,GlowCare Sneakers,Fashion,GlowCare,249.56,196.05,true,2021-02-27
+PROD00390,GlowCare T-Shirt,Fashion,GlowCare,105.01,73.94,false,2022-08-25
+PROD00391,CoreMax Jeans,Fashion,CoreMax,374.88,297.07,true,2021-10-07
+PROD00392,AeroWave Sneakers,Fashion,AeroWave,282.11,218.36,true,2023-05-05
+PROD00393,PeakFit Jeans,Fashion,PeakFit,347.87,233.39,true,2023-01-18
+PROD00394,GlowCare Sneakers,Fashion,GlowCare,286.55,183.41,true,2022-03-29
+PROD00395,NovaTech Backpack,Fashion,NovaTech,49.9,38.35,true,2024-08-01
+PROD00396,PrimeEdge T-Shirt,Fashion,PrimeEdge,38.86,28.01,true,2023-09-14
+PROD00397,GlowCare T-Shirt,Fashion,GlowCare,322.89,263.61,true,2022-12-31
+PROD00398,BrightKart T-Shirt,Fashion,BrightKart,324.67,252.13,true,2022-05-14
+PROD00399,PeakFit Sneakers,Fashion,PeakFit,204.21,166.9,true,2023-08-06
+PROD00400,NovaTech Sneakers,Fashion,NovaTech,208.76,175.17,true,2024-05-14
+PROD00401,NovaTech Cleanser,Beauty,NovaTech,163.48,113.89,false,2021-10-08
+PROD00402,UrbanLine Cleanser,Beauty,UrbanLine,28.78,16.35,true,2021-07-09
+PROD00403,PrimeEdge Moisturizer,Beauty,PrimeEdge,345.09,257.21,true,2021-03-14
+PROD00404,ZenStyle Serum,Beauty,ZenStyle,117.02,71.46,true,2022-11-19
+PROD00405,GlowCare Perfume,Beauty,GlowCare,75.39,48.08,true,2024-02-08
+PROD00406,PeakFit Perfume,Beauty,PeakFit,150.71,117.88,true,2023-03-18
+PROD00407,HomeNest Serum,Beauty,HomeNest,255.24,210.02,true,2022-05-20
+PROD00408,ZenStyle Moisturizer,Beauty,ZenStyle,179.77,105.21,true,2023-09-02
+PROD00409,UrbanLine Cleanser,Beauty,UrbanLine,149.06,83.51,true,2023-06-04
+PROD00410,PrimeEdge Shampoo,Beauty,PrimeEdge,116.83,70.12,true,2023-02-21
+PROD00411,HomeNest Cleanser,Beauty,HomeNest,197.72,154.33,true,2021-05-10
+PROD00412,GlowCare Serum,Beauty,GlowCare,264.86,214.06,true,2024-05-03
+PROD00413,NovaTech Cleanser,Beauty,NovaTech,146.77,109.95,true,2022-06-16
+PROD00414,PrimeEdge Perfume,Beauty,PrimeEdge,157.19,91.38,true,2023-11-07
+PROD00415,PeakFit Serum,Beauty,PeakFit,269.63,197.25,false,2023-07-28
+PROD00416,PrimeEdge Perfume,Beauty,PrimeEdge,210.13,165.24,true,2022-11-28
+PROD00417,NovaTech Cleanser,Beauty,NovaTech,386.71,219.78,true,2021-09-08
+PROD00418,UrbanLine Moisturizer,Beauty,UrbanLine,143.57,93.56,true,2021-08-31
+PROD00419,ZenStyle Serum,Beauty,ZenStyle,267.87,160.39,true,2022-03-04
+PROD00420,AeroWave Moisturizer,Beauty,AeroWave,209.42,134.85,true,2023-02-27
+PROD00421,PrimeEdge Serum,Beauty,PrimeEdge,94.85,57.13,true,2024-03-06
+PROD00422,NovaTech Shampoo,Beauty,NovaTech,23.16,14.6,true,2024-09-02
+PROD00423,HomeNest Cleanser,Beauty,HomeNest,308.52,180.48,true,2024-08-02
+PROD00424,HomeNest Serum,Beauty,HomeNest,234.24,139.06,true,2021-08-05
+PROD00425,PeakFit Cleanser,Beauty,PeakFit,144.84,96.88,true,2021-03-07
+PROD00426,UrbanLine Shampoo,Beauty,UrbanLine,273.09,222.74,true,2022-12-20
+PROD00427,HomeNest Serum,Beauty,HomeNest,279.9,201.78,true,2023-04-23
+PROD00428,PrimeEdge Cleanser,Beauty,PrimeEdge,235.62,191.43,true,2022-11-27
+PROD00429,GlowCare Perfume,Beauty,GlowCare,146.25,96.88,true,2023-09-02
+PROD00430,UrbanLine Serum,Beauty,UrbanLine,129.32,73.14,false,2022-03-18
+PROD00431,PrimeEdge Perfume,Beauty,PrimeEdge,35.28,29.73,true,2022-07-25
+PROD00432,AeroWave Shampoo,Beauty,AeroWave,215.01,132.8,true,2022-03-13
+PROD00433,GlowCare Serum,Beauty,GlowCare,105.57,63.74,true,2023-06-01
+PROD00434,NovaTech Shampoo,Beauty,NovaTech,302.39,195.01,true,2023-05-12
+PROD00435,CoreMax Serum,Beauty,CoreMax,144.89,91.51,true,2023-09-13
+PROD00436,AeroWave Moisturizer,Beauty,AeroWave,111.29,70.56,true,2021-04-07
+PROD00437,AeroWave Serum,Beauty,AeroWave,21.92,15.66,false,2024-04-29
+PROD00438,CoreMax Shampoo,Beauty,CoreMax,166.41,97.55,true,2023-11-27
+PROD00439,GlowCare Perfume,Beauty,GlowCare,129.43,90.94,false,2022-04-30
+PROD00440,UrbanLine Moisturizer,Beauty,UrbanLine,42.93,30.71,true,2022-10-13
+PROD00441,PeakFit Moisturizer,Beauty,PeakFit,202.26,119.12,true,2023-11-27
+PROD00442,NovaTech Serum,Beauty,NovaTech,353.97,216.15,true,2022-05-27
+PROD00443,AeroWave Shampoo,Beauty,AeroWave,336.47,223.21,true,2021-10-24
+PROD00444,BrightKart Moisturizer,Beauty,BrightKart,347.61,246.65,true,2024-11-24
+PROD00445,HomeNest Serum,Beauty,HomeNest,357.69,240.85,true,2021-06-10
+PROD00446,CoreMax Cleanser,Beauty,CoreMax,122.69,90.29,true,2022-09-23
+PROD00447,NovaTech Moisturizer,Beauty,NovaTech,190.19,141.94,true,2024-10-15
+PROD00448,ZenStyle Serum,Beauty,ZenStyle,339.72,276.48,true,2023-05-11
+PROD00449,CoreMax Moisturizer,Beauty,CoreMax,94.45,66.94,true,2021-12-25
+PROD00450,HomeNest Shampoo,Beauty,HomeNest,272.47,213.21,true,2023-07-25
+PROD00451,CoreMax Serum,Beauty,CoreMax,346.09,245.02,true,2023-07-18
+PROD00452,AeroWave Shampoo,Beauty,AeroWave,19.17,11.85,true,2023-05-26
+PROD00453,BrightKart Moisturizer,Beauty,BrightKart,277.58,174.8,true,2023-11-22
+PROD00454,BrightKart Shampoo,Beauty,BrightKart,34.42,29.15,true,2024-06-16
+PROD00455,AeroWave Cleanser,Beauty,AeroWave,420.91,258.56,true,2023-03-01
+PROD00456,GlowCare Serum,Beauty,GlowCare,409.18,260.37,true,2021-05-12
+PROD00457,NovaTech Cleanser,Beauty,NovaTech,345.6,203.94,true,2024-03-10
+PROD00458,GlowCare Perfume,Beauty,GlowCare,201.85,156.87,false,2023-03-06
+PROD00459,NovaTech Moisturizer,Beauty,NovaTech,400.09,265.15,true,2021-01-16
+PROD00460,UrbanLine Serum,Beauty,UrbanLine,154.01,119.31,true,2021-09-07
+PROD00461,PrimeEdge Shampoo,Beauty,PrimeEdge,237.99,191.26,true,2024-03-05
+PROD00462,PrimeEdge Perfume,Beauty,PrimeEdge,226.1,174.83,true,2024-06-04
+PROD00463,PrimeEdge Serum,Beauty,PrimeEdge,60.9,42.93,true,2021-07-19
+PROD00464,ZenStyle Moisturizer,Beauty,ZenStyle,321.8,222.42,true,2021-07-30
+PROD00465,CoreMax Moisturizer,Beauty,CoreMax,189.74,132.16,true,2021-09-14
+PROD00466,PeakFit Serum,Beauty,PeakFit,158.13,95.33,true,2021-09-21
+PROD00467,HomeNest Perfume,Beauty,HomeNest,66.58,54.58,true,2023-06-13
+PROD00468,ZenStyle Moisturizer,Beauty,ZenStyle,364.59,284.7,true,2021-06-20
+PROD00469,GlowCare Serum,Beauty,GlowCare,211.91,172.96,true,2021-10-09
+PROD00470,PeakFit Serum,Beauty,PeakFit,324.42,236.11,false,2022-05-21
+PROD00471,AeroWave Serum,Beauty,AeroWave,40.13,23.47,true,2022-10-19
+PROD00472,AeroWave Serum,Beauty,AeroWave,48.38,37.52,true,2023-07-23
+PROD00473,UrbanLine Serum,Beauty,UrbanLine,303.91,231.34,true,2023-04-27
+PROD00474,UrbanLine Perfume,Beauty,UrbanLine,467.92,261.19,true,2022-08-12
+PROD00475,AeroWave Shampoo,Beauty,AeroWave,15.28,11.93,true,2021-01-26
+PROD00476,PrimeEdge Cleanser,Beauty,PrimeEdge,199.49,127.67,true,2023-06-23
+PROD00477,GlowCare Serum,Beauty,GlowCare,262.4,195.49,true,2022-09-16
+PROD00478,PeakFit Perfume,Beauty,PeakFit,66.16,38.9,true,2022-03-22
+PROD00479,PeakFit Perfume,Beauty,PeakFit,44.61,36.19,true,2022-10-30
+PROD00480,ZenStyle Perfume,Beauty,ZenStyle,383.16,287.73,true,2022-12-21
+PROD00481,UrbanLine Shampoo,Beauty,UrbanLine,135.5,105.43,true,2023-02-04
+PROD00482,BrightKart Perfume,Beauty,BrightKart,142.68,100.35,false,2023-05-29
+PROD00483,ZenStyle Perfume,Beauty,ZenStyle,318.8,237.81,true,2021-06-10
+PROD00484,UrbanLine Cleanser,Beauty,UrbanLine,87.86,53.78,true,2024-11-26
+PROD00485,GlowCare Shampoo,Beauty,GlowCare,313.58,259.86,true,2023-01-25
+PROD00486,PrimeEdge Shampoo,Beauty,PrimeEdge,393.58,220.45,false,2023-07-02
+PROD00487,AeroWave Serum,Beauty,AeroWave,162.05,129.43,true,2023-05-13
+PROD00488,HomeNest Moisturizer,Beauty,HomeNest,348.97,268.13,true,2023-06-22
+PROD00489,GlowCare Serum,Beauty,GlowCare,117.37,96.86,true,2022-05-31
+PROD00490,ZenStyle Perfume,Beauty,ZenStyle,443.79,271.09,true,2023-12-01
+PROD00491,NovaTech Moisturizer,Beauty,NovaTech,120.94,69.26,true,2021-03-14
+PROD00492,AeroWave Shampoo,Beauty,AeroWave,329.7,222.43,true,2024-11-02
+PROD00493,HomeNest Serum,Beauty,HomeNest,363.38,207.81,true,2022-03-09
+PROD00494,BrightKart Moisturizer,Beauty,BrightKart,162.92,122.23,true,2024-12-09
+PROD00495,CoreMax Moisturizer,Beauty,CoreMax,408.39,279.97,true,2023-10-18
+PROD00496,ZenStyle Perfume,Beauty,ZenStyle,237.48,160.16,true,2022-12-18
+PROD00497,PrimeEdge Serum,Beauty,PrimeEdge,305.33,221.08,false,2023-09-05
+PROD00498,GlowCare Moisturizer,Beauty,GlowCare,316.98,262.77,false,2022-08-25
+PROD00499,PrimeEdge Moisturizer,Beauty,PrimeEdge,29.25,20.98,true,2022-04-07
+PROD00500,AeroWave Perfume,Beauty,AeroWave,50.18,33.45,true,2021-09-30
